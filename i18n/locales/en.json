@@ -81,7 +81,7 @@
   "challengeDesc": "Win a Texas Hold'em tournament. 50 bonus coins!",
   "startChallenge": "Start Challenge",
   "vsBot": "vs Bot",
-  "localPlay": "Local",
+  "localPlay": "Local play",
   "light": "Light",
   "dark": "Dark",
   "system": "System",
@@ -224,5 +224,11 @@
       "again": "New game",
       "continue": "See summary"
     }
-  }
+  },
+  "diffEasy": "Easy",
+  "diffMedium": "Medium",
+  "diffHard": "Hard",
+  "drawsShort": "D",
+  "yourMove": "Your move",
+  "wallet": "Wallet"
 }

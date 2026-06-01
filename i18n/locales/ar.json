@@ -224,5 +224,11 @@
       "again": "لعبة جديدة",
       "continue": "الملخص"
     }
-  }
+  },
+  "diffEasy": "سهل",
+  "diffMedium": "متوسط",
+  "diffHard": "صعب",
+  "drawsShort": "ت",
+  "yourMove": "دورك",
+  "wallet": "المحفظة"
 }
