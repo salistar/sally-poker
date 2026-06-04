@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Poker",
+    "name": "Sally Poker",
     "slug": "poker",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -49,7 +49,7 @@
         }
       ]
     ],
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "extra": {
       "eas": {
         "projectId": "sallycards-poker"
